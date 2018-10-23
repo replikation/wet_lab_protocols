@@ -3,7 +3,7 @@ DNA sludge Preparation for MinION Sequencing
 ___
 # Protokol FastDNA Spin Kit with Bead clean up
 
-* [This product for FastDNA](https://www.mpbio.com/product.php?pid=116540600&country=223)
++ [This product for FastDNA](https://www.mpbio.com/product.php?pid=116540600&country=223)
 + using less wash steps do reduce sheering of DNase
 + additionally doing a bead based clean up with AMPure
 + the other "not bead cleaned" samples could be used for gel extraction
@@ -24,10 +24,10 @@ ___
 >
 >| ID | sludge | humic wash | normal wash | additional information |
 >| -| -------- | -------- | -------- |-------- |
->| 5.h1 | 0.2 ml sludge| 1x | 1x | no Beadstep |
->| 6.h1 | 0.4 ml sludge| 1x | 1x | no Beadstep |
->| 7.h0 | 0.2 ml sludge | 0x | 1x | no Beadstep |
->| 8.h0 | 0.4 ml sludge | 0x | 1x | no Beadstep |
+>| 5.h1 | 0.2 ml sludge| 1x | 1x | no Bead step |
+>| 6.h1 | 0.4 ml sludge| 1x | 1x | no Bead step |
+>| 7.h0 | 0.2 ml sludge | 0x | 1x | no Bead step |
+>| 8.h0 | 0.4 ml sludge | 0x | 1x | no Bead step |
 > * **Homogenize at 6.0 m/s and 40s**
 
 ## Protocol
