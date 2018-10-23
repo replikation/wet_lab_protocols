@@ -4,11 +4,11 @@ ___
 # Protokol FastDNA Spin Kit with Bead clean up
 
 * [This product for FastDNA](https://www.mpbio.com/product.php?pid=116540600&country=223)
-* using less wash steps do reduce sheering of DNase
-* additionally doing a bead based clean up with AMPure
-* the other "not bead cleaned" samples could be used for gel extraction
-* trying also to get more DNA while using more sludge input
-* ** comparing yield and QC [here](results/FAST_DNA-AMpBeads_results_1_QC.md) **
++ using less wash steps do reduce sheering of DNase
++ additionally doing a bead based clean up with AMPure
++ the other "not bead cleaned" samples could be used for gel extraction
++ trying also to get more DNA while using more sludge input
++ **comparing yield and QC:** [**click here**](wet_lab_protocols/results/FAST_DNA-AMpBeads_results_1_QC.md)
 
 ## Samples
 
@@ -28,7 +28,7 @@ ___
 >| 6.h1 | 0.4 ml sludge| 1x | 1x | no Beadstep |
 >| 7.h0 | 0.2 ml sludge | 0x | 1x | no Beadstep |
 >| 8.h0 | 0.4 ml sludge | 0x | 1x | no Beadstep |
-> * ** Homogenize at 6.0 m/s and 40s **
+> * **Homogenize at 6.0 m/s and 40s**
 
 ## Protocol
 
@@ -67,7 +67,7 @@ ___
   >* Add 500 µl of humic acid wash solution to the sample (gently flick/mix)
   >* spin at 14,000 g for 1 min and empty catch tube
 
-* ** Washing**
+13. **Washing**
 >* Add 500 µl prepared SEWS-M and gently resuspend the pellet using a pipet tip
 >* Centrifuge for 1 min at 14,000 g, empty the catch tube and replace
 
@@ -89,7 +89,7 @@ ___
 >| 7.h0 | 0.2 ml sludge | 0x | 1x | no Beadstep |
 >| 8.h0 | 0.4 ml sludge | 0x | 1x | no Beadstep |
 
-** check this with the nanopore protocol first **
+**check this with the nanopore protocol first**
 * [ ] Prepare 70 % ethanol
 * [ ] Get magnetic rack
 
@@ -98,7 +98,7 @@ ___
 * put on magnet until clear (2 min)
 * remove supernatant
 
-** On the magnet do:**
+**On the magnet do:**
 * add 200 µl 70 % EtHO
 * incubate for 30 s and remove supernatant
 * let it dry (overdrying removes 10kbasepair fragments)
