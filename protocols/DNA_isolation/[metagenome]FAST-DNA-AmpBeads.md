@@ -8,7 +8,7 @@ ___
 + additionally doing a bead based clean up with AMPure
 + the other "not bead cleaned" samples could be used for gel extraction
 + trying also to get more DNA while using more sludge input
-+ **comparing yield and QC:** [**click here**](wet_lab_protocols/results/FAST_DNA-AMpBeads_results_1_QC.md)
+
 
 ## Samples
 

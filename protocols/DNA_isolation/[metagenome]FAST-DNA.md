@@ -7,6 +7,8 @@ ___
 
 > best approach for nanopore sequencing is currently this FastDNA Kit with the modified steps (step 0 to 18)
 
++ **comparing yield and QC:** [**click here**](results\FAST_DNA-AmpBeads_results_1_QC.md)
+
 ## Samples
 
 > current sludge sample preparation
@@ -19,7 +21,7 @@ ___
 >| 2x 0.2 ml sludge|0.2 ml Z3 0.2 ml CoCulture | 6.0 m/s|40 s|
 >| 2x 0.2 ml sludge | 0.2 ml Z3 0.2 ml CoCulture | 5.0 m/s|40 s|
 >| 2x 0.2 ml sludge | 0.2 ml Z3 0.2 ml CoCulture | 6.0 m/s|30 s|
-> * ** I sequenced the sludge sample with 6.0 m/s and 30s and got average of 850 bp but pores were intact **
+> * **I sequenced the sludge sample with 6.0 m/s and 30s and got average of 850 bp but pores were intact**
 > * **approx. 500.000 reads could be assigned to bacteria**
 > * over 2 Mio reads also
 
@@ -54,7 +56,7 @@ ___
   >* Add 500 µl of humic acid wash solution to the sample (gently flick/mix)
   >* spin at 14,000 g for 1 min and empty catch tube, repeat
 
-* ** Washing, repeat 3 times**
+* **Washing, repeat 3 times**
 >* Add 500 µl prepared SEWS-M and gently resuspend the pellet using a pipet tip
 >* Centrifuge for 1 min at 14,000 g, empty the catch tube and replace
 
