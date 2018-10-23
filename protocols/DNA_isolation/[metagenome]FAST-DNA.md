@@ -7,7 +7,7 @@ ___
 
 > best approach for nanopore sequencing is currently this FastDNA Kit with the modified steps (step 0 to 18)
 
-+ **comparing yield and QC:** [**click here**](results/FAST_DNA-AmpBeads_results_1_QC.md)
++ **comparing yield and QC:** [**click here**](../../results/FAST_DNA-AmpBeads_results_1_QC.md)
 
 ## Samples
 
