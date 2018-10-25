@@ -8,3 +8,21 @@ QC Results
 > GR1 and 2 originate from Uppsala Co-digestion plant and are fed a mixture of household waste and slaughterhouse waste. These reactors operate at mesophilic temperature (37C) and at high nitrogen levels (approx. 8-10 g/L).
 
 # QC Results
+
+| ID | sludge [ml] | humic wash |  amount [ng/µl] | after beads* [ng/µl]
+| -| -------- | ---| ---|----|
+| **1.h1.b** | 0.2 | yes | 552 | 380
+| **2.h1.b** | 0.4 | yes | 272 | 214
+| **3.h0.b** |0.2 | - | 536 | 404
+| **4.h0.b** |0.4 | - | 356 | 199
+| 5.h1 | 0.2| yes | 542 | -
+| 6.h1 | 0.4 | yes | 242 | -
+| 7.h0 | 0.2 | - | 510 | -
+| 8.h0 | 0.4 | - | 274 | -
+*b means additional bead purification; h1 means additional humic acid removal step;* {*} volume decreased now to 50 µl total
+
+1. Adding more sludge decreases total yield
+2. The humic acid removal wash step has no significant impact on the total yield
+
+open questions:
+1. does these steps have impact on the DNA fragment length?

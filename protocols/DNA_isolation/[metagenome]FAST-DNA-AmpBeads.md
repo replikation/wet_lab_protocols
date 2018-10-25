@@ -12,6 +12,7 @@ ___
 
 ## Samples
 
+With Beads:
 
 | ID | sludge | humic wash | normal wash | additional information |
 | -| -------- | -------- | -------- |-------- |
@@ -19,8 +20,6 @@ ___
 | 2.h1.b | 0.4 ml sludge| 1x | 1x | |
 | 3.h0.b |0.2 ml sludge | 0x | 1x | |
 | 4.h0.b |0.4 ml sludge | 0x | 1x | ||
-
-With Beads:
 
 | ID | sludge | humic wash | normal wash | additional information |
 | -| -------- | -------- | -------- |-------- |
@@ -73,32 +72,35 @@ With Beads:
 
 ### Bead clean up
 
-* manufacturers protocol is located under protocols/external/
+* used HighPrep instead of AMPure Beads
 * for these samples:
 
->| ID | sludge | humic wash | normal wash | additional information |
->| -| -------- | -------- | -------- |-------- |
->| 5.h1 | 0.2 ml sludge| 1x | 1x | no Beadstep |
->| 6.h1 | 0.4 ml sludge| 1x | 1x | no Beadstep |
->| 7.h0 | 0.2 ml sludge | 0x | 1x | no Beadstep |
->| 8.h0 | 0.4 ml sludge | 0x | 1x | no Beadstep |
+| ID | sludge | humic wash | normal wash | additional information |
+| -| -------- | -------- | -------- |-------- |
+| 1.h1.b | 0.2 ml sludge| 1x | 1x | |
+| 2.h1.b | 0.4 ml sludge| 1x | 1x | |
+| 3.h0.b |0.2 ml sludge | 0x | 1x | |
+| 4.h0.b |0.4 ml sludge | 0x | 1x | ||
 
 **check this with the nanopore protocol first**
-* [ ] Prepare 70 % ethanol
-* [ ] Get magnetic rack
++ [ ] Prepare 80 % ethanol
++ [ ] Get magnetic rack
 
-* shake AMPure bead bottle
-* add 126 µl Beads to each sample, and mix carefully
+
+* shake HighPrep beads
+* add 70 µl Beads to each sample (1.0x Volume), and mix carefully
+* incubate for 5 min at RT
 * put on magnet until clear (2 min)
 * remove supernatant
 
 **On the magnet do:**
-* add 200 µl 70 % EtHO
+* add 200 µl 80 % EtOH
 * incubate for 30 s and remove supernatant
-* let it dry (overdrying removes 10kbasepair fragments)
+* add 200 µl 80 % EtOH
 * incubate for 30 s and remove supernatant
-* let it dry (overdrying removes 10kbasepair fragments)
+* let it dry 10-15 min (over drying removes 10kbasepair fragments)
 
 
 * remove from magnet and add 50 µl H2O and mix carefully
+* incubate for 2 min at RT
 * bind to magnet and transfer eluate to a fresh tube
