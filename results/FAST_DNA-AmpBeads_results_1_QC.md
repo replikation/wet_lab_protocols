@@ -33,7 +33,7 @@ QC Results
 * 5 µl marker
 * 1k marker (from top to down 20kb 10kb 7kb **5kb**)
 
-![](img\Biorad_2018-10-26_16hr_20min.jpg)
+![](img/Biorad_2018-10-26_16hr_20min.jpg)
 
 *Marker, 1 - 8, Marker*
 
