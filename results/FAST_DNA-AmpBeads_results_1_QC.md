@@ -22,6 +22,7 @@ QC Results
 | 6.h1 | 0.4 | yes | 242 | -
 | 7.h0 | 0.2 | - | 510 | -
 | 8.h0 | 0.4 | - | 274 | -
+
 *b means additional bead purification; h1 means additional humic acid removal step;* (+) volume decreased now to 50 µl total
 
 1. Adding more sludge decreases total yield
@@ -33,7 +34,9 @@ QC Results
 * 5 µl marker
 * 1k marker (from top to down 20kb 10kb 7kb **5kb**)
 
-![](img/Biorad_2018-10-26_16hr_20min.jpg)
+![image_relative](/results/img/Biorad_2018-10-26_16hr_20min.jpg?raw=true)
+
+![image_copy_path](https://raw.githubusercontent.com/replikation/wet_lab_protocols/master/results/img/Biorad%202018-10-26%2016hr%2020min.jpg)
 
 *Marker, 1 - 8, Marker*
 
