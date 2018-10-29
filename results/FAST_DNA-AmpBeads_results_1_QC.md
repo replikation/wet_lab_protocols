@@ -34,14 +34,9 @@ QC Results
 * 5 µl marker
 * 1k marker (from top to down 20kb 10kb 7kb **5kb**)
 
-![image_relative](/results/img/Biorad_2018-10-26_16hr_20min.jpg?raw=true)
-
 ![image_copy_path](https://raw.githubusercontent.com/replikation/wet_lab_protocols/master/results/img/Biorad%202018-10-26%2016hr%2020min.jpg)
 
 *Marker, 1 - 8, Marker*
 
 * 0.4 ml sludge produces the best bands in the upper DNA length. maybe the increased amount of sludge "buffers" the bead impact leading to less fragmentation?
-*
-
-open questions:
-1. does these steps have impact on the DNA fragment length?
+* or the overloading of the silica leads to increase read length
