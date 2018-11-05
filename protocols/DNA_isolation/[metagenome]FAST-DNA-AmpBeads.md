@@ -37,7 +37,6 @@ With Beads:
 * [ ] humic acid wash solution ready
 
 
-0. Take **2 ml sludge**, centrifuge, remove supernatant, resolve in 200 µl water
 1. add **200 or 400 µl** of sludge/cells sample to **Lysing Matrix E tube**
 2. Add **978 µl Sodium Phosphate Buffer** to Lysing Matrix E tube
 3. Add **122 µL MT Buffer**
