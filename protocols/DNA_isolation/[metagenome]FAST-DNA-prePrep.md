@@ -8,6 +8,7 @@ ___
 + therefore sludge 0.4 ml with a humic removal wash step
 + no bead step clean up
 + 6 m/s 20s bead beating
++ **comparing yield and QC:** [**click here**](../../results/FAST_DNA-prePrep_results_1_QC.md)
 
 ## Samples
 

@@ -7,6 +7,7 @@ ___
 + protocol extends on the [FAST-DNA-AmpBeads Protocoll]([metagenome]FAST-DNA-AmpBeads.md)
 + therefore sludge 0.4 ml with a humic removal wash step
 + no bead step clean up, because i want to go with gel extraction i-gel
++ **comparing yield and QC:** [**click here**](../../results/FAST_DNA-BeadBeating_results_1_QC.md)
 
 ## Samples
 

@@ -19,14 +19,14 @@ QC Results
 
 | ID | sludge [ml] | humic wash |  bead beating | prePrep | dsDNA [ng/µl]
 | -| -------- | ---| ---|----|----|
-| 1z | 0.4 | yes | 6m/s 20s | rm Supernatant (a) |
-| 2z | 0.4 | yes | 6m/s 20s | rm Supernatant (a)|
-| 3d |0.4 | yes |6m/s 20s | DNase treatment (b)|
-| 4d |0.4 | yes | 6m/s 20s | DNase treatment (b)|
-| 5n | 0.4| yes | 6m/s 20s | nothing|
-| 6n | 0.4 | yes | 6m/s 20s | nothing|
-| 7dz | 0.4 | yes | 6m/s 20s | (a) + (b)|
-| 8dz | 0.4 | yes |6m/s 20s |(a) + (b)||
+| 1z | 0.4 | yes | 6m/s 20s | rm Supernatant (a) | n.m.
+| 2z | 0.4 | yes | 6m/s 20s | rm Supernatant (a)| n.m.
+| 3d |0.4 | yes |6m/s 20s | DNase treatment (b)| n.m.
+| 4d |0.4 | yes | 6m/s 20s | DNase treatment (b)| n.m.
+| 5n | 0.4| yes | 6m/s 20s | nothing| n.m.
+| 6n | 0.4 | yes | 6m/s 20s | nothing| n.m.
+| 7dz | 0.4 | yes | 6m/s 20s | (a) + (b)| n.m.
+| 8dz | 0.4 | yes |6m/s 20s |(a) + (b)|n.m.|
 
 
 ## DNA gel

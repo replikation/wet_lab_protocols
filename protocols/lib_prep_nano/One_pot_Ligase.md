@@ -13,6 +13,14 @@ One-pot ligation protocol for Nanopore libs
 
 **All the NEB products have compatible buffers for each enzyme**
 
+# DNA
+
+* need short fragment removal first, e.g. [this](pre_lib_cleaning.md)
+* you need 200-400 fmol DNA in 24 μl, that means:
+  * 500 - 1000 ng DNA with a median of 5000 bp
+  * 1 µg - 2 µg DNA with a median of 10000 bp
+  * and so on...
+
 # Protocol
 
 1. Set up the following end-prep reaction:
