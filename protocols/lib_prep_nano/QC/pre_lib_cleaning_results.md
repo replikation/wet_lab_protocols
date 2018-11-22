@@ -20,12 +20,12 @@ _______
 
 * results of the prewash:
 
-Sample | Origin | DNA [ng/µl] before | DNA [ng/µl] after
---|--|--|
-1 | Preprep sample 1 | - | 232
-2 | Preprep sample 2 | - | 246
-3 | beadbeating sample 5 | 482 | 316
-4 | beadbeating sample 6 | 434 | 282
+|Sample | Origin | DNA [ng/µl] before | DNA [ng/µl] after
+|--|--|--|--|
+|1 | Preprep sample 1 | - | 232|
+|2 | Preprep sample 2 | - | 246|
+|3 | beadbeating sample 5 | 482 | 316|
+|4 | beadbeating sample 6 | 434 | 282 |
 
 ![image_of_Biorad_2018-11-19](https://raw.githubusercontent.com/replikation/wet_lab_protocols/master/results/img/Biorad_2018-11-19_16hr_21min.jpg)
 

@@ -1,50 +1,41 @@
-DNA sludge Preparation for MinION Sequencing
+metagenomic DNA Preparation for MinION Sequencing
 ====
 ___
-# Protocol FastDNA Spin Kit with pre Preparation steps
+# General
 
-+ [This product for FastDNA](https://www.mpbio.com/product.php?pid=116540600&country=223)
-+ protocol extends on the [FAST-DNA-BeadBeating Protocol]([metagenome]FAST-DNA-BeadBeating.md)
-+ therefore sludge 0.4 ml with a humic removal wash step
-+ 6 m/s 20s bead beating
-+ **comparing yield and QC:** [**click here**](../../results/FAST_DNA-prePrep_results_1_QC.md)
++ [This is the FastDNA Kit](https://www.mpbio.com/product.php?pid=116540600&country=223)
++ protocol is based on the best results from:
+  * [FAST-DNA]([metagenome]FAST-DNA.md)
+  * [FAST-DNA AmpBeads]([metagenome]FAST-DNA-AmpBeads.md)
+  * [FAST DNA BeadBeating]([metagenome]FAST-DNA-BeadBeating.md)
+  * [FAST DNA prePrep]([metagenome]FAST-DNA-prePrep.md)
++ yield should be around 400 - 500 ng/µl
++ DNA should "smear" around 10.000 - 20.000 bp; [see results]([metagenome]FAST-DNA-prePrep.md)
 
-## Samples
+# Sample Template
 
-| ID | sludge [ml] | humic wash |  bead beating | prePrep
+| ID | sludge [ml] | humic wash |  bead beating | cDNA [ng/µl]
 | -| -------- | ---| ---|----|
-| 1z | 0.4 | yes | 6m/s 20s | rm Supernatant (a) |
-| 2z | 0.4 | yes | 6m/s 20s | rm Supernatant (a)|
-| 3d |0.4 | yes |6m/s 20s | DNase treatment (b)|
-| 4d |0.4 | yes | 6m/s 20s | DNase treatment (b)|
-| 5n | 0.4| yes | 6m/s 20s | nothing|
-| 6n | 0.4 | yes | 6m/s 20s | nothing|
-| 7dz | 0.4 | yes | 6m/s 20s | (a) + (b)|
-| 8dz | 0.4 | yes |6m/s 20s |(a) + (b)||
+| 1  | 0.4 | yes | 6m/s 20s |    |
+| 2 | 0.4 | yes | 6m/s 20s |   |
+| 3 |0.4 | yes |6m/s 20s |  |
+| 4 |0.4 | yes | 6m/s 20s |  |
+| 5 | 0.4| yes | 6m/s 20s |  |
+| 6 | 0.4 | yes | 6m/s 20s |  |
+| 7 | 0.4 | yes | 6m/s 20s |  |
+| 8 | 0.4 | yes |6m/s 20s | ||
 
-## Protocol
-### FastDNA Isolation
+# Protocol
 
 * [ ] RNase A ready
 * [ ] humic acid wash solution ready
 
 
-1. add **400 µl** of sludge/cells sample via 1 ml syringe to **Lysing Matrix E tube**
-
-  (a) centrifuge (5 min 14,000g) rm supernatant, replace with same volume of H2O
-
-
-2. Add **778 µl Sodium Phosphate Buffer** to Lysing Matrix E tube
-
-  (b) add 1 µl DNase and incubate for 5 min
-
-
+0. add **400 µl** of sludge/cells sample via 1 ml syringe to a 2 ml tube
+1. **centrifuge (5 min 20,000g)**, remove supernatant, replace with same volume of H2O
+2. **Transfer sample** to Lysing Matrix E tube and add **778 µl Sodium Phosphate Buffer**
 3. Add **122 µL MT Buffer**
-
-  (b) add 1 µl Proteinase K and incubate for 5 min
-
-
-4. Homogenize the FastPrep for **X s** at **Y m/s**, put on ice (see sample table)
+4. Homogenize the FastPrep for **20 s** at **6 m/s**, put on ice
 5. Centrifuge at 14,000g for 15 min, 4 °C
 6. Transfer supernatant to a **clean 2 ml tube**
 7. add 1 µl of RNase A to each sample, incubate for 5 min
