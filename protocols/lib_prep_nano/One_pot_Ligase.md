@@ -82,3 +82,32 @@ One-pot ligation protocol for Nanopore libs
 **Expected result**
 * Expected recovery is 50-80% of starting material
 * lower recovery indicates presence of short fragments
+
+## Load a library (Priming the SpotON Flow Cell)
+
+|Priming Solution| Volume|
+|-|-|
+|RBF| 	480 µl
+|Nuclease-free water|	520 µl
+|Total|	1000 µl
+
+- open priming port
+- Remove 20-25 µl of yellow storage solution (use yellow pipette)
+- Take 800 µl Priming solution using a blue Pipette
+- change the Pipette settings to 780 µl (Priming solution still in pipette)
+- Load 780 µl to priming port avoiding the introduction of air bubbles
+- wait at least 5 min (don’t close port)
+
+> after at least 5 min
+
+- **open the SpotON sample port** (all ports now open)
+- Load **really slowly** 200 µl to the priming port avoiding the introduction of air bubbles
+- Mix library gently by pipetting up and down (yellow pipette)
+- Add all of Library via the SpotON port in a **dropwise fashion**
+    - if it won't "go in" slowly close and reopen the spoton **a bit** to press the first drop into it - then it should work
+- Ensure each drop flows into the port before adding the next
+- close the SpotON sample port
+- close the priming port
+- check if both ports are closed
+
+**Start the Minion Sequencing run**
