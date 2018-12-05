@@ -11,6 +11,7 @@ One-pot ligation protocol for Nanopore libs
 * [ ] ice bucket
 * [ ] Prepare Qubit for later (e.g. WS = 995 µl Buffer + 5 µl QuantIT)
   * 2x 190 µl WS + 10 µl Standard; 199 µl WS + 1 µl Library
+  * best during the 20 min wait
 * [ ] [NEBnext ultra II endrepair](https://www.neb.com/products/e7546-nebnext-ultra-ii-end-repair-da-tailing-module#Product%20Information) on ice, buffer at RT
   * buffer precipitates - dissolve !
 * [ ] [NEBnext FFPE DNA repair](https://international.neb.com/products/m6630-nebnext-ffpe-dna-repair-mix#Product%20Information) on ice, buffer at RT
@@ -21,7 +22,8 @@ One-pot ligation protocol for Nanopore libs
 * [ ] AMX 1D on ice
 * [ ] ELB at RT until liquid then ice
 * [ ] LBB at RT until liquid then ice
-* [ ] Nuclease-free water at RT 
+* [ ] Nuclease-free water at RT
+* [ ] AMPure beads
 
 # DNA Quality
 
@@ -31,33 +33,35 @@ One-pot ligation protocol for Nanopore libs
   * 500 - 1000 ng DNA with a median of 5000 bp
   * 1 µg - 2 µg DNA with a median of 10000 bp
   * and so on...
-* for metagenomic DNA, isolated via the protocols stated above, **2 µg in 24 µl** is sufficient (DNA stock was 232 ng/µl)
+* for metagenomic DNA, isolated via the protocols stated above:
+  * **2 µg in 24 µl** is sufficient (DNA stock was 232 ng/µl)
+  * also good results with **3.6 µg in 24 µl**  (DNA stock was 450 ng/µl) - but more loss in the end
 
 # Protocol
 ## Library preparation
 
 1. Set up the following end-prep reaction:
 
-|reagent|amount|
-|-|-|
-|DNA (200-400 fmol)|	24 μl
-|Ultra II End Prep Reaction Buffer|	1.75 μl
-|FFPE DNA Repair Buffer |	1.75 μl
-|Ultra II End Prep Enzyme Mix| 	1.5 μl
-|FFPE DNA Repair Mix|	1 μl
-|**Total**|**30 μl**||
+|reagent|amount| notes
+|-|-|-|
+|DNA (200-400 fmol)|	24 μl | |
+|Ultra II End Prep Reaction Buffer|	1.75 μl | |
+|FFPE DNA Repair Buffer |	1.75 μl| |
+|Ultra II End Prep Enzyme Mix| 	1.5 μl| |
+|FFPE DNA Repair Mix|	1 μl| |
+|**Total**|**30 μl**| gently flick| |
 
 2. Incubate at **20°C** for **10 min**
 3. Incubate at **65°C** for **12 min**
 4. Place on ice for exactly **30 s**
 5. Add the following **directly** to the previous reaction:
 
-|reagent|amount|
-|-|-|
-|AMX 1D |20 μl|
-|Ultra II Ligation Master Mix|	40 μl |
-|Ligation Enhancer|	1 μl |
-|**Total**|**91 μl**|
+|reagent|amount|notes
+|-|-| -|
+|AMX 1D |20 μl| |
+|Ultra II Ligation Master Mix|	40 μl | viscous in pipette |
+|Ligation Enhancer|	1 μl ||
+|**Total**|**91 μl**|gently flick|
 
 6. Incubate at **RT** for **20 min**
   * meanwhile prepare the **Priming Solution**
@@ -68,14 +72,14 @@ One-pot ligation protocol for Nanopore libs
 > |Nuclease-free water|	520 µl
 > |**Total** |	1000 µl
 
-7. Add **45.5 μl Ampure XP beads**
+7. Add **45.5 μl Ampure XP beads**, shake gently via hand
 8. Incubate at **RT** for **10 min**
 9. Spin down briefly and place on a magnetic rack until solution clears
 10. Taking care to avoid the pellet remove the supernatant.
-11. **(wash 1/2)** Add **150 μl ABB** and resuspend by gently flicking (move on magnet to "solve" clumpy pellet)
+11. **(wash 1/2)** Add **150 μl ABB** and resuspend by gently shaking via hand
 12. **(wash 1/2)** Spin down briefly and place on a magnetic rack until solution clears
 13. **(wash 1/2)** Taking care to avoid the pellet remove the supernatant
-14. **(wash 2/2)** Add **150 μl ABB** and resuspend by flicking (move on magnet to "solve" clumpy pellet)
+14. **(wash 2/2)** Add **150 μl ABB** and resuspend by gently shaking via hand
 15. **(wash 2/2)** Spin down briefly and place on a magnetic rack until solution clears
 16. **(wash 2/2)** Taking care to avoid the pellet remove the supernatant
 17. Spin down again and remove all residual ABB with a **10 µl pipette**
