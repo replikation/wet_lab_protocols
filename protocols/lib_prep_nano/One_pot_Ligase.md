@@ -51,7 +51,7 @@ One-pot ligation protocol for Nanopore libs
 |FFPE DNA Repair Mix|	1 μl| |
 |**Total**|**30 μl**| gently flick| |
 
-2. Incubate at **20°C** for **10 min**
+2. Incubate at RT (**20°C**) for **10 min**
 3. Incubate at **65°C** for **12 min**
 4. Place on ice for exactly **30 s**
 5. Add the following **directly** to the previous reaction:

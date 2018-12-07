@@ -13,7 +13,7 @@ Pre cleaning step for DNA
 * (wash 1/2) remove supernatant
 * (wash 2/2) add 150 µl Ethanol (80 %), don't disturb pellet
 * (wash 2/2) remove supernatant
-* **leave magnet** spin down, bind on magnet and remove residual liquid **with 10 µl pipette**
+* **remove from magnet** spin down, bind on magnet and remove residual liquid **with 10 µl pipette**
 * add 30 µl H2O, resuspend via flicking
 * incubate for 10 min at RT
 * spin down and put on magnetic

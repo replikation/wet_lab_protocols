@@ -30,7 +30,7 @@ ___
 
 
 0. add **400 µl** of homogenic sludge/cells sample via 1 ml syringe to a 2 ml tube
-1. **centrifuge (5 min 20,000g)**, remove supernatant, **replace with same volume of H2O**
+1. **centrifuge (5 min 20,000g)**, remove supernatant, **resuspend in 400 µl H2O Nuclease free**
 2. **Transfer sample** to Lysing Matrix E tube and add **778 µl Sodium Phosphate Buffer**
 3. Add **122 µL MT Buffer**
 4. Homogenize via FastPrep®-24 Classic I. for **20 s** at **6 m/s**, put on ice after
@@ -51,8 +51,9 @@ ___
 >>
 >> 1.166 ml PPS
 >>
-> * mix at full speed for 2 min
-> * add 6.3 ml 5.5 M Guanidine Thiocyanat and mix
+> * vortex at full speed for 2 min
+> * add 6.3 ml 5.5 M Guanidine Thiocyanat and vortex
+> * vortex before each use
 
 
 13. Discard **650 µl of supernatant** without disturbing the binding matrix
