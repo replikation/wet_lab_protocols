@@ -33,9 +33,12 @@ One-pot ligation protocol for Nanopore libs
   * 500 - 1000 ng DNA with a median of 5000 bp
   * 1 µg - 2 µg DNA with a median of 10000 bp
   * and so on...
-* for metagenomic DNA, isolated via the protocols stated above:
-  * **2 µg in 24 µl** is sufficient (DNA stock was 232 ng/µl)
-  * also good results with **3.6 µg in 24 µl**  (DNA stock was 450 ng/µl) - but more loss in the end
+* for metagenomic DNA of sludge, isolated via the protocols stated above:
+  * **2.0 µg in 24 µl** (DNA stock was 232 ng/µl) ~ 11.5 Gb / 2.6 M / old_fc / labscale
+  * **3.6 µg in 24 µl** (DNA stock was 450 ng/µl) ~ 22.6 Gb / 3.6 M / new_fc / biogas
+  * **3.4 µg in 24 µl** (DNA stock was 150 ng/µl) ~ 09.2 Gb / 2.8 M / old_fc / culture
+  * **4.8 µg in 24 µl** (DNA stock was 200 ng/µl) ~ 10.0 Gb / 2.0 M / new_fc / wastewater
+  * aim for 2.5 - 3.0 µg
 
 # Protocol
 ## Library preparation
@@ -64,7 +67,7 @@ One-pot ligation protocol for Nanopore libs
 |**Total**|**91 μl**|gently flick|
 
 6. Incubate at **RT** for **20 min**
-  * meanwhile prepare the **Priming Solution**
+  * meanwhile prepare the **Priming Solution** & Qubit solutions
 
 > |reagent| amount|
 > |-|-|
@@ -78,10 +81,10 @@ One-pot ligation protocol for Nanopore libs
 10. Taking care to avoid the pellet remove the supernatant.
 11. **(wash 1/2)** Add **150 μl ABB** and resuspend by gently shaking via hand
 12. **(wash 1/2)** Spin down briefly and place on a magnetic rack until solution clears
-13. **(wash 1/2)** Taking care to avoid the pellet remove the supernatant
+13. **(wash 1/2)** Taking care to avoid the pellet remove the supernatant slowly
 14. **(wash 2/2)** Add **150 μl ABB** and resuspend by gently shaking via hand
 15. **(wash 2/2)** Spin down briefly and place on a magnetic rack until solution clears
-16. **(wash 2/2)** Taking care to avoid the pellet remove the supernatant
+16. **(wash 2/2)** Taking care to avoid the pellet remove the supernatant slowly
 17. Spin down again and remove all residual ABB with a **10 µl pipette**
 18. Add **12 μl ELB** and resuspend beads by flicking
 19. Incubate at **RT** for **10 min**
@@ -110,8 +113,8 @@ One-pot ligation protocol for Nanopore libs
 - open priming port
 - Remove 20-25 µl of yellow storage solution (use yellow pipette)
 - Take 800 µl Priming solution using a blue Pipette
-- change the Pipette settings to 780 µl (Priming solution still in pipette)
-- Load 780 µl to priming port avoiding the introduction of air bubbles
+- reduce Volume on pipette a bit until drop appears (to avoid bubbles to the cell)
+- Load Priming solution to priming port, avoiding the introduction of air bubbles
 - wait at least 5 min (don’t close port)
 
 > Step B after at least 5 min

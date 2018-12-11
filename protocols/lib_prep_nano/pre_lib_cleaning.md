@@ -2,7 +2,7 @@ Pre cleaning step for DNA
 ===
 + **comparing yield and QC:** [**click here**](QC/pre_lib_cleaning_results.md)
 
-* add **30 µl DNA** sample to **60 µl H2O** (vary this depending on concentration)
+* add **60 µl DNA** sample to **20 µl H2O** (vary this depending on concentration)
   * this was used for around 500 ng/µl which was reduced to around 250 ng/µl
   * alternatively take **70 µl DNA + 20 µl H2O** if c(DNA) is below 250 ng/µl
 * add **45 µl magnetic Beads** (0.5 Volume, e.g. AMPure, HighPrep) and shake a bit
