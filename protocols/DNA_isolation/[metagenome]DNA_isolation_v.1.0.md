@@ -3,7 +3,7 @@ metagenomic DNA Preparation for MinION Sequencing
 ___
 # General
 
-+ [This is the FastDNA Kit](https://www.mpbio.com/product.php?pid=116540600&country=223)
++ [This is the FastDNA Kit](https://www.mpbio.com/product.php?pid=116560600)
 + protocol is based on the best results from:
   * [FAST-DNA]([metagenome]FAST-DNA.md)
   * [FAST-DNA AmpBeads]([metagenome]FAST-DNA-AmpBeads.md)

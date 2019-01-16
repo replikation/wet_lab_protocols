@@ -3,7 +3,7 @@ DNA sludge Preparation for MinION Sequencing
 ___
 # Protokol FastDNA Spin Kit
 
-* [This product](https://www.mpbio.com/product.php?pid=116540600&country=223)
+* [This product](https://www.mpbio.com/product.php?pid=116560600)
 
 > best approach for nanopore sequencing is currently this FastDNA Kit with the modified steps (step 0 to 18)
 

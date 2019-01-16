@@ -3,7 +3,7 @@ DNA sludge Preparation for MinION Sequencing
 ___
 # Protocol FastDNA Spin Kit with Bead clean up
 
-+ [This product for FastDNA](https://www.mpbio.com/product.php?pid=116540600&country=223)
++ [This product for FastDNA](https://www.mpbio.com/product.php?pid=116560600)
 + using less wash steps do reduce sheering of DNase
 + additionally doing a bead based clean up with AMPure
 + the other "not bead cleaned" samples could be used for gel extraction

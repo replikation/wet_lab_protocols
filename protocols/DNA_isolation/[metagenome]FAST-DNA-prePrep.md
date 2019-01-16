@@ -3,7 +3,7 @@ DNA sludge Preparation for MinION Sequencing
 ___
 # Protocol FastDNA Spin Kit with pre Preparation steps
 
-+ [This product for FastDNA](https://www.mpbio.com/product.php?pid=116540600&country=223)
++ [This product for FastDNA](https://www.mpbio.com/product.php?pid=116560600)
 + protocol extends on the [FAST-DNA-BeadBeating Protocol]([metagenome]FAST-DNA-BeadBeating.md)
 + therefore sludge 0.4 ml with a humic removal wash step
 + 6 m/s 20s bead beating
