@@ -41,7 +41,8 @@ From the LSK Kit:
   * 2 µg DNA with a median of 10000 bp
   * and so on...
 * for metagenomic DNA of sludge, isolated via the protocols stated above:
-  * **1.1 µg in 24 µl** (DNA stock was 280 ng/µl) ~ X Gb / X M / old_fc with 800 pores / labscale
+  * **1.1 µg in 24 µl** (DNA stock was 280 ng/µl) ~ 7.7 Gb / 2 M / old_fc with less than 800 pores / labscale - frozen
+  * **1.5 µg in 24 µl** (DNA stock was 336 ng/µl) - inc 10 min to 15min; less Beads in the end
 
 
 # Protocol
@@ -51,15 +52,15 @@ From the LSK Kit:
 
 |reagent|amount| notes
 |-|-|-|
-|DNA (400 fmol)|	24 μl | |
+|DNA (400 fmol)|	24 μl | 4.5 µl + 19.5 H2O |
 |Ultra II End Prep Reaction Buffer|	1.75 μl | |
 |FFPE DNA Repair Buffer |	1.75 μl| |
 |Ultra II End Prep Enzyme Mix| 	1.5 μl| |
 |FFPE DNA Repair Mix|	1 μl| |
 |**Total**|**30 μl**| gently flick| |
 
-2. Incubate at RT (**20°C**) for **10 min**
-3. Incubate at **65°C** for **10 min**
+2. Incubate at RT (**20°C**) for **15 min**
+3. Incubate at **65°C** for **15 min**
 4. Place on ice for exactly **30 s**
 5. Add the following **directly** to the previous reaction:
 
@@ -71,7 +72,7 @@ From the LSK Kit:
 |**Total**|**69 μl**|gently flick|
 
 6. Incubate at **RT** for **20 min**
-7. Add **34.5 μl Ampure XP beads**, shake gently via hand
+7. Add **30 μl Ampure XP beads**, shake gently via hand
 8. Incubate at **RT** for **10 min**
 9. Spin down briefly and place on a magnetic rack until solution clears
 10. Taking care to avoid the pellet remove the supernatant.
