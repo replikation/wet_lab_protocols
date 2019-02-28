@@ -14,13 +14,14 @@ One-pot ligation protocol for Nanopore libs LSK-109
   * best during the 20 min wait
 
 
-* [ ] [NEBnext ultra II endrepair](https://www.neb.com/products/e7546-nebnext-ultra-ii-end-repair-da-tailing-module#Product%20Information) on ice, buffer at RT
-  * buffer precipitates - dissolve !
-* [ ] [NEBnext FFPE DNA repair](https://international.neb.com/products/m6630-nebnext-ffpe-dna-repair-mix#Product%20Information) on ice, buffer at RT
-    * buffer precipitates - dissolve !
-* [ ] [NEBnext ultra II Ligation](https://international.neb.com/products/e7595-nebnext-ultra-ii-ligation-module#Product%20Information) & enhancer both on ice
-* [ ] Nuclease-free water at RT
-* [ ] AMPure beads
+
+- [ ] [NEBnext ultra II endrepair](https://www.neb.com/products/e7546-nebnext-ultra-ii-end-repair-da-tailing-module#Product%20Information) on ice, buffer at RT
+  - buffer precipitates - dissolve !
+- [ ] [NEBnext FFPE DNA repair](https://international.neb.com/products/m6630-nebnext-ffpe-dna-repair-mix#Product%20Information) on ice, buffer at RT
+    - buffer precipitates - dissolve !
+- [ ] [NEBnext ultra II Ligation](https://international.neb.com/products/e7595-nebnext-ultra-ii-ligation-module#Product%20Information) & enhancer both on ice
+- [ ] Nuclease-free water at RT
+- [ ] AMPure beads
 
 From the LSK Kit:
 * [ ] **SQB** on RT, then on ice (vortex, spin down)
@@ -52,7 +53,7 @@ From the LSK Kit:
 
 |reagent|amount| notes
 |-|-|-|
-|DNA (400 fmol)|	24 μl | 4.5 µl + 19.5 H2O |
+|DNA (400 fmol)|	24 μl | |
 |Ultra II End Prep Reaction Buffer|	1.75 μl | |
 |FFPE DNA Repair Buffer |	1.75 μl| |
 |Ultra II End Prep Enzyme Mix| 	1.5 μl| |
@@ -82,19 +83,19 @@ From the LSK Kit:
 14. **(wash 2/2)** Add **250 μl LFB** and resuspend by gently shaking via hand
 15. **(wash 2/2)** Spin down briefly and place on a magnetic rack until solution clears
 16. **(wash 2/2)** Taking care to avoid the pellet remove the supernatant slowly
-17. Spin down again and remove all residual ABB with a **10 µl pipette**
+17. Spin down again and remove all residual LFB with a **10 µl pipette**
 18. Add **12 μl EB** and resuspend beads by flicking
 19. Incubate at **RT** for **10 min**
   > meanwhile do **Step A** (flowcell priming)
 20. Spin down briefly and place on a magnetic rack until solution clears (Supernatant = *Library*)
 21. In a new tube prepare library dilution for sequencing:
 
-|reagent|amount|
-|-|-|
-|SQB| 37.5 µl
-|LB | 25.5 µl
-| *Library* | 12 µl
-|**Total**| 75 µl	 ||
+|reagent|amount|notes|
+|-|-|-|
+|SQB| 37.5 µl| check that its clear! |
+|LB | 25.5 µl| homogenoize via pipetting |
+| *Library* | 12 µl||
+|**Total**| 75 µl	 |||
 
 22. Mix by gently flicking before removing **2 µl to assess concentration by Qubit** (wait until beads have settled before measuring)
 
@@ -128,4 +129,9 @@ From the LSK Kit:
 - close the priming port
 - check if both ports are closed
 
-**Start the MinION sequencing run**
+**Start the MinION sequencing run for 48 h with active channel selection enabled**
+
+## Refueling
+* untested
+* every 24 h
+* load 75 µl refuelling mix (SQB diluted 1:2 with nuclease-free water)

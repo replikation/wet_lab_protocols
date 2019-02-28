@@ -6,6 +6,7 @@ Pre cleaning step for DNA
   * this was used for around 500 ng/µl which was reduced to around 250 ng/µl
   * alternatively take **70 µl DNA + 20 µl H2O** if c(DNA) is below 250 ng/µl
 * add **45 µl magnetic Beads** (0.5 Volume, e.g. AMPure, HighPrep) and shake a bit
+  * less bead volume may improve the results (e.g. 0.3-0.4 Volume)
 * incubate for **10 min at RT**
 * spin down
 * **bind to magnet** until clear and remove supernatant
