@@ -26,7 +26,7 @@ One-pot ligation protocol for Nanopore libs LSK-109
 From the LSK Kit:
 * [ ] **SQB** on RT, then on ice (vortex, spin down)
 * [ ] one tube **FLB** on RT, then on ice (vortex, spin down)
-* [ ] **FLT** on ice on RT, then on ice (**mix by pipetting**, spin down)
+* [ ] **FLT** on RT, then on ice (**mix by pipetting**, spin down)
 * [ ] **LFB** on ice
 * [ ] **AMX** on ice
 * [ ] **EB** at RT until liquid then ice
@@ -83,7 +83,7 @@ From the LSK Kit:
 14. **(wash 2/2)** Add **250 μl LFB** and resuspend by gently shaking via hand
 15. **(wash 2/2)** Spin down briefly and place on a magnetic rack until solution clears
 16. **(wash 2/2)** Taking care to avoid the pellet remove the supernatant slowly
-17. Spin down again and remove all residual LFB with a **10 µl pipette**
+17. Spin down again, put on magnet and remove all residual LFB with a **10 µl pipette**
 18. Add **12 μl EB** and resuspend beads by flicking
 19. Incubate at **RT** for **10 min**
   > meanwhile do **Step A** (flowcell priming)
