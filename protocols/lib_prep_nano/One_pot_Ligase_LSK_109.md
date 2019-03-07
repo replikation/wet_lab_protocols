@@ -132,6 +132,15 @@ From the LSK Kit:
 **Start the MinION sequencing run for 48 h with active channel selection enabled**
 
 ## Refueling
-* untested
-* every 24 h
-* load 75 µl refuelling mix (SQB diluted 1:2 with nuclease-free water)
+
+* repeat every 22-24 h
+* mix 35 µl nucl. free water with 35 µl SQB (make sure that SQB is clear before using it)
+* open the priming port and SpotON port
+* Add 70 µl of the "Refuel-Mix" via SpotON port in a drop wise fashion (like the prepared DNA sample)
+* if the first drop is not going in, do the following steps:
+  * SpotON is usually clogged (beads, buffer remains etc.)
+  * close both port openings from the waste storage part with your fingers (**not** the SpotON and priming port - the other two openings on the flow cell)
+  * slowly push a litte air via a 100-200 µl pipett through the priming port
+  * this should free the SpotON (you basically push a bit liquid through the SpotON port)
+  * if it was done correctly the previous drop should now go in
+* add the remaing "Refuel-Mix" via SpotON port in a drop wise fashion
