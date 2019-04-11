@@ -133,14 +133,20 @@ From the LSK Kit:
 
 ## Refueling
 
-* repeat every 22-24 h
+* do refuel after around 18-20 h
 * mix 35 µl nucl. free water with 35 µl SQB (make sure that SQB is clear before using it)
 * open the priming port and SpotON port
 * Add 70 µl of the "Refuel-Mix" via SpotON port in a drop wise fashion (like the prepared DNA sample)
-* if the first drop is not going in, do the following steps:
-  * SpotON is usually clogged (beads, buffer remains etc.)
-  * close both port openings from the waste storage part with your fingers (**not** the SpotON and priming port - the other two openings on the flow cell)
-  * slowly push a litte air via a 100-200 µl pipett through the priming port
-  * this should free the SpotON (you basically push a bit liquid through the SpotON port)
-  * if it was done correctly the previous drop should now go in
+  * if the first drop is not going in, do the following steps:
+  * close both waste storage ports with your fingers (**not** the SpotON and priming port - the other two openings)
+  * slowly push "20µl"air via a 100-200 µl pipett through the priming port 
 * add the remaing "Refuel-Mix" via SpotON port in a drop wise fashion
+
+## Regenerating
+* [full protocol for EXP-WSH002](https://community.nanoporetech.com/protocols/washing-minion-flow-cells/v/wke_1012_v1_revn_08apr2016/what-is-the-wash-kit)
+* stop the sequencing run
+* open the priming port and do:
+ * add 150 µl Solution A
+ * wait 10 min
+ * add 500 µl Storage buffer
+* store in 4 °C
