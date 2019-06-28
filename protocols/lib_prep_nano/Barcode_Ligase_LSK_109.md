@@ -37,7 +37,7 @@ From the EXP-NBD104 Kit:
 
 # DNA Quality
 
-* needs a initial short fragment removal e.g. [this protocol, step 23 till end](dx.doi.org/10.17504/protocols.io.w7afhie)
+* needs a initial short fragment removal e.g. [this protocol, step 23 till end](https://www.protocols.io/view/long-read-dna-preparation-for-metagenomic-samples-w7afhie)
 * you need 1 µg per Sample that you want to barcode
 * tested with DNA that yielded a N50 of 38 kbp
 
